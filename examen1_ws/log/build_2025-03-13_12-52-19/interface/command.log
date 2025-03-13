@@ -1,0 +1,6 @@
+Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ignacio/examen1_ws/src/interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignacio/examen1_ws/install/interface
+Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ignacio/examen1_ws/src/interface -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ignacio/examen1_ws/install/interface
+Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface
+Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface

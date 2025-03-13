@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating servicios.egg-info
+writing servicios.egg-info/PKG-INFO
+writing dependency_links to servicios.egg-info/dependency_links.txt
+writing entry points to servicios.egg-info/entry_points.txt
+writing requirements to servicios.egg-info/requires.txt
+writing top-level names to servicios.egg-info/top_level.txt
+writing manifest file 'servicios.egg-info/SOURCES.txt'
+reading manifest file 'servicios.egg-info/SOURCES.txt'
+writing manifest file 'servicios.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ignacio/examen1_ws/install/servicios/lib/python3.10/site-packages/servicios.egg-link (link to .)
+Installing client_aibo script to /home/ignacio/examen1_ws/install/servicios/lib/servicios
+Installing server_aibo script to /home/ignacio/examen1_ws/install/servicios/lib/servicios
+
+Installed /home/ignacio/examen1_ws/build/servicios
+running symlink_data
+creating /home/ignacio/examen1_ws/install/servicios/share/ament_index
+creating /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index
+creating /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index/packages
+symbolically linking /home/ignacio/examen1_ws/build/servicios/resource/servicios -> /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index/packages
+symbolically linking /home/ignacio/examen1_ws/build/servicios/package.xml -> /home/ignacio/examen1_ws/install/servicios/share/servicios

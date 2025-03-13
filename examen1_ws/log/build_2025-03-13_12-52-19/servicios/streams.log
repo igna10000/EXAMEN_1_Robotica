@@ -1,0 +1,25 @@
+[2.716s] Invoking command in '/home/ignacio/examen1_ws/build/servicios': PYTHONPATH=/home/ignacio/examen1_ws/build/servicios/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/servicios/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ignacio/examen1_ws/build/servicios/build --no-deps symlink_data
+[3.446s] running develop
+[3.845s] running egg_info
+[3.846s] creating servicios.egg-info
+[3.846s] writing servicios.egg-info/PKG-INFO
+[3.846s] writing dependency_links to servicios.egg-info/dependency_links.txt
+[3.846s] writing entry points to servicios.egg-info/entry_points.txt
+[3.846s] writing requirements to servicios.egg-info/requires.txt
+[3.847s] writing top-level names to servicios.egg-info/top_level.txt
+[3.847s] writing manifest file 'servicios.egg-info/SOURCES.txt'
+[3.853s] reading manifest file 'servicios.egg-info/SOURCES.txt'
+[3.854s] writing manifest file 'servicios.egg-info/SOURCES.txt'
+[3.858s] running build_ext
+[3.861s] Creating /home/ignacio/examen1_ws/install/servicios/lib/python3.10/site-packages/servicios.egg-link (link to .)
+[3.863s] Installing client_aibo script to /home/ignacio/examen1_ws/install/servicios/lib/servicios
+[3.863s] Installing server_aibo script to /home/ignacio/examen1_ws/install/servicios/lib/servicios
+[3.863s] 
+[3.863s] Installed /home/ignacio/examen1_ws/build/servicios
+[3.864s] running symlink_data
+[3.864s] creating /home/ignacio/examen1_ws/install/servicios/share/ament_index
+[3.864s] creating /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index
+[3.864s] creating /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index/packages
+[3.865s] symbolically linking /home/ignacio/examen1_ws/build/servicios/resource/servicios -> /home/ignacio/examen1_ws/install/servicios/share/ament_index/resource_index/packages
+[3.865s] symbolically linking /home/ignacio/examen1_ws/build/servicios/package.xml -> /home/ignacio/examen1_ws/install/servicios/share/servicios
+[4.144s] Invoked command in '/home/ignacio/examen1_ws/build/servicios' returned '0': PYTHONPATH=/home/ignacio/examen1_ws/build/servicios/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/servicios/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ignacio/examen1_ws/build/servicios/build --no-deps symlink_data

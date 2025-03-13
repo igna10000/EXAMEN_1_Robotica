@@ -1,0 +1,1 @@
+/home/ignacio/examen1_ws/build/interface/rosidl_typesupport_introspection_c/interface/srv/detail/aibo__rosidl_typesupport_introspection_c.h

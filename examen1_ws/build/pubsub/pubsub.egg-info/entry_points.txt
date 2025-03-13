@@ -1,0 +1,7 @@
+[console_scripts]
+filtro = pubsub.filtro:main
+leer = pubsub.leer_filtro:main
+pub = pubsub.pub_array:main
+sensores = pubsub.sensores:main
+sub = pubsub.sub_array:main
+

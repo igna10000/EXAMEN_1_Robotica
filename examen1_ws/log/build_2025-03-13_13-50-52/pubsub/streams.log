@@ -1,0 +1,53 @@
+[1.231s] Invoking command in '/home/ignacio/examen1_ws/build/pubsub': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ignacio/examen1_ws/build/pubsub/build
+[1.726s] running develop
+[2.012s] Removing /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub.egg-link (link to .)
+[2.099s] Invoked command in '/home/ignacio/examen1_ws/build/pubsub' returned '0': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/ignacio/examen1_ws/build/pubsub/build
+[2.103s] Invoking command in '/home/ignacio/examen1_ws/src/pubsub': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/ignacio/examen1_ws/build/pubsub/build install --record /home/ignacio/examen1_ws/build/pubsub/install.log --single-version-externally-managed install_data --force
+[2.550s] running egg_info
+[2.551s] writing ../../build/pubsub/pubsub.egg-info/PKG-INFO
+[2.553s] writing dependency_links to ../../build/pubsub/pubsub.egg-info/dependency_links.txt
+[2.553s] writing entry points to ../../build/pubsub/pubsub.egg-info/entry_points.txt
+[2.553s] writing requirements to ../../build/pubsub/pubsub.egg-info/requires.txt
+[2.553s] writing top-level names to ../../build/pubsub/pubsub.egg-info/top_level.txt
+[2.558s] reading manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[2.559s] adding license file 'LICENSE'
+[2.560s] writing manifest file '../../build/pubsub/pubsub.egg-info/SOURCES.txt'
+[2.560s] running build
+[2.561s] running build_py
+[2.561s] creating /home/ignacio/examen1_ws/build/pubsub/build
+[2.561s] creating /home/ignacio/examen1_ws/build/pubsub/build/lib
+[2.562s] creating /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.562s] copying pubsub/leer_filtro.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.562s] copying pubsub/pub_array.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.563s] copying pubsub/sub_array.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.563s] copying pubsub/sensores.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.563s] copying pubsub/filtro.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.563s] copying pubsub/__init__.py -> /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub
+[2.564s] running install
+[2.566s] running install_lib
+[2.568s] creating /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.569s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/leer_filtro.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.569s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/pub_array.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.570s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/sub_array.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.570s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/sensores.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.570s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/filtro.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.571s] copying /home/ignacio/examen1_ws/build/pubsub/build/lib/pubsub/__init__.py -> /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub
+[2.571s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/leer_filtro.py to leer_filtro.cpython-310.pyc
+[2.571s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/pub_array.py to pub_array.cpython-310.pyc
+[2.573s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/sub_array.py to sub_array.cpython-310.pyc
+[2.574s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/sensores.py to sensores.cpython-310.pyc
+[2.575s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/filtro.py to filtro.cpython-310.pyc
+[2.575s] byte-compiling /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub/__init__.py to __init__.cpython-310.pyc
+[2.575s] running install_data
+[2.576s] copying resource/pubsub -> /home/ignacio/examen1_ws/install/pubsub/share/ament_index/resource_index/packages
+[2.576s] copying package.xml -> /home/ignacio/examen1_ws/install/pubsub/share/pubsub
+[2.576s] running install_egg_info
+[2.580s] Copying ../../build/pubsub/pubsub.egg-info to /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub-0.0.0-py3.10.egg-info
+[2.622s] running install_scripts
+[2.670s] Installing filtro script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[2.672s] Installing leer script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[2.673s] Installing pub script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[2.673s] Installing sensores script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[2.673s] Installing sub script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[2.673s] writing list of installed files to '/home/ignacio/examen1_ws/build/pubsub/install.log'
+[2.746s] Invoked command in '/home/ignacio/examen1_ws/src/pubsub' returned '0': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/pubsub build --build-base /home/ignacio/examen1_ws/build/pubsub/build install --record /home/ignacio/examen1_ws/build/pubsub/install.log --single-version-externally-managed install_data --force

@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from interface/srv/Aibo.srv
+// generated code does not contain a copyright notice
+
+
+module interface {
+  module srv {
+    @verbatim (language="comment", text=
+      "Request")
+    struct Aibo_Request {
+      sequence<double> input_array;
+    };
+    @verbatim (language="comment", text=
+      "Response")
+    struct Aibo_Response {
+      sequence<double> output_array;
+    };
+  };
+};

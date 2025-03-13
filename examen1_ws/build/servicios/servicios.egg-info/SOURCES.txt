@@ -1,0 +1,15 @@
+package.xml
+setup.cfg
+setup.py
+resource/servicios
+servicios/__init__.py
+servicios/cinemat.py
+servicios/cliente_aibo.py
+servicios/servidor_aibo.py
+servicios.egg-info/PKG-INFO
+servicios.egg-info/SOURCES.txt
+servicios.egg-info/dependency_links.txt
+servicios.egg-info/entry_points.txt
+servicios.egg-info/requires.txt
+servicios.egg-info/top_level.txt
+servicios.egg-info/zip-safe

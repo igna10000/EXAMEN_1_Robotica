@@ -1,0 +1,4 @@
+srv/Aibo.idl
+srv/Aibo.srv
+srv/Aibo_Request.msg
+srv/Aibo_Response.msg

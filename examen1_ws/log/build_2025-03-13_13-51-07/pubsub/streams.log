@@ -1,0 +1,23 @@
+[2.258s] Invoking command in '/home/ignacio/examen1_ws/build/pubsub': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ignacio/examen1_ws/build/pubsub/build --no-deps symlink_data --force
+[2.856s] running develop
+[3.212s] running egg_info
+[3.212s] writing pubsub.egg-info/PKG-INFO
+[3.212s] writing dependency_links to pubsub.egg-info/dependency_links.txt
+[3.213s] writing entry points to pubsub.egg-info/entry_points.txt
+[3.213s] writing requirements to pubsub.egg-info/requires.txt
+[3.213s] writing top-level names to pubsub.egg-info/top_level.txt
+[3.218s] reading manifest file 'pubsub.egg-info/SOURCES.txt'
+[3.220s] writing manifest file 'pubsub.egg-info/SOURCES.txt'
+[3.226s] running build_ext
+[3.228s] Creating /home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages/pubsub.egg-link (link to .)
+[3.229s] Installing filtro script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[3.229s] Installing leer script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[3.229s] Installing pub script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[3.232s] Installing sensores script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[3.237s] Installing sub script to /home/ignacio/examen1_ws/install/pubsub/lib/pubsub
+[3.237s] 
+[3.238s] Installed /home/ignacio/examen1_ws/build/pubsub
+[3.238s] running symlink_data
+[3.238s] symbolically linking /home/ignacio/examen1_ws/build/pubsub/resource/pubsub -> /home/ignacio/examen1_ws/install/pubsub/share/ament_index/resource_index/packages
+[3.241s] symbolically linking /home/ignacio/examen1_ws/build/pubsub/package.xml -> /home/ignacio/examen1_ws/install/pubsub/share/pubsub
+[3.351s] Invoked command in '/home/ignacio/examen1_ws/build/pubsub' returned '0': PYTHONPATH=/home/ignacio/examen1_ws/build/pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ignacio/examen1_ws/install/pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ignacio/examen1_ws/build/pubsub/build --no-deps symlink_data --force

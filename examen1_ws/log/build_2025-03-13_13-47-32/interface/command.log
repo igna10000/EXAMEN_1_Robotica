@@ -1,0 +1,4 @@
+Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface
+Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface

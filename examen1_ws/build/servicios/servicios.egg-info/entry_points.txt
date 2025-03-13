@@ -1,0 +1,4 @@
+[console_scripts]
+client_aibo = servicios.cliente_aibo:main
+server_aibo = servicios.servidor_aibo:main
+

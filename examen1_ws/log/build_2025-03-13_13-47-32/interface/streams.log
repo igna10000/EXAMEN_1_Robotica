@@ -1,0 +1,133 @@
+[0.122s] Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+[0.919s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_generator_c[0m
+[0.919s] [  3%] Built target interface__cpp
+[0.919s] [ 12%] Built target interface__rosidl_generator_c
+[0.919s] [ 12%] Built target ament_cmake_python_symlink_interface
+[0.920s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_fastrtps_cpp[0m
+[0.920s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_introspection_cpp[0m
+[0.921s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_fastrtps_c[0m
+[0.921s] [ 22%] Built target interface__rosidl_typesupport_fastrtps_cpp
+[0.922s] [ 32%] Built target interface__rosidl_typesupport_introspection_cpp
+[0.922s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_cpp[0m
+[0.922s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_introspection_c[0m
+[0.922s] [ 41%] Built target interface__rosidl_typesupport_fastrtps_c
+[0.922s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_c[0m
+[0.922s] [ 51%] Built target interface__rosidl_typesupport_introspection_c
+[0.923s] [ 61%] Built target interface__rosidl_typesupport_cpp
+[0.923s] [ 70%] Built target interface__rosidl_typesupport_c
+[0.925s] [ 70%] Built target interface
+[0.929s] [ 74%] Built target interface__py
+[0.929s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_generator_py[0m
+[0.929s] [ 80%] Built target interface__rosidl_generator_py
+[0.929s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.929s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_c__pyext[0m
+[0.930s] [35m[1mConsolidate compiler generated dependencies of target interface__rosidl_typesupport_introspection_c__pyext[0m
+[0.955s] [ 87%] Built target interface__rosidl_typesupport_c__pyext
+[0.962s] [ 93%] Built target interface__rosidl_typesupport_introspection_c__pyext
+[0.963s] [100%] Built target interface__rosidl_typesupport_fastrtps_c__pyext
+[1.294s] running egg_info
+[1.296s] writing interface.egg-info/PKG-INFO
+[1.297s] writing dependency_links to interface.egg-info/dependency_links.txt
+[1.297s] writing top-level names to interface.egg-info/top_level.txt
+[1.303s] reading manifest file 'interface.egg-info/SOURCES.txt'
+[1.305s] writing manifest file 'interface.egg-info/SOURCES.txt'
+[1.400s] [100%] Built target ament_cmake_python_build_interface_egg
+[1.583s] Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ignacio/examen1_ws/build/interface -- -j4 -l4
+[1.609s] Invoking command in '/home/ignacio/examen1_ws/build/interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface
+[1.629s] -- Install configuration: ""
+[1.682s] -- Execute custom install script
+[1.685s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/ament_index/resource_index/rosidl_interfaces/interface
+[1.690s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/msg/rosidl_generator_c__visibility_control.h
+[1.691s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/aibo.h
+[1.692s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__functions.h
+[1.694s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__struct.h
+[1.695s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__type_support.h
+[1.696s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/library_path.sh
+[1.696s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/library_path.dsv
+[1.698s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.699s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__rosidl_typesupport_fastrtps_c.h
+[1.700s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.701s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/aibo.hpp
+[1.702s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__builder.hpp
+[1.703s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__struct.hpp
+[1.703s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__traits.hpp
+[1.704s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__type_support.hpp
+[1.706s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.707s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__rosidl_typesupport_fastrtps_cpp.hpp
+[1.710s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.711s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__rosidl_typesupport_introspection_c.h
+[1.713s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/include/interface/interface/srv/detail/aibo__rosidl_typesupport_introspection_cpp.hpp
+[1.714s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/pythonpath.sh
+[1.716s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/pythonpath.dsv
+[1.717s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface-0.0.0-py3.10.egg-info/PKG-INFO
+[1.718s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.719s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.721s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface-0.0.0-py3.10.egg-info/top_level.txt
+[1.722s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/__init__.py
+[1.723s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/_interface_s.ep.rosidl_typesupport_c.c
+[1.726s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.727s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/_interface_s.ep.rosidl_typesupport_introspection_c.c
+[1.728s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.729s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.729s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.730s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/libinterface__rosidl_generator_py.so
+[1.730s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/srv/__init__.py
+[1.731s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/srv/_aibo.py
+[1.731s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/srv/_aibo_s.c
+[1.732s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.733s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.734s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.735s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/srv/Aibo.idl
+[1.736s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/srv/Aibo.srv
+[1.737s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/srv/Aibo_Request.msg
+[1.737s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/srv/Aibo_Response.msg
+[1.738s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/ament_index/resource_index/package_run_dependencies/interface
+[1.739s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/ament_index/resource_index/parent_prefix_path/interface
+[1.741s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/ament_prefix_path.sh
+[1.743s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/ament_prefix_path.dsv
+[1.744s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/path.sh
+[1.745s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/environment/path.dsv
+[1.746s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/local_setup.bash
+[1.747s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/local_setup.sh
+[1.748s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/local_setup.zsh
+[1.750s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/local_setup.dsv
+[1.750s] -- Symlinking: /home/ignacio/examen1_ws/install/interface/share/interface/package.dsv
+[1.808s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/ament_index/resource_index/packages/interface
+[1.809s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/rosidl_cmake-extras.cmake
+[1.809s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.810s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.811s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/ament_cmake_export_libraries-extras.cmake
+[1.812s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/ament_cmake_export_targets-extras.cmake
+[1.812s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.814s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.814s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interfaceConfig.cmake
+[1.814s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interfaceConfig-version.cmake
+[1.815s] -- Up-to-date symlink: /home/ignacio/examen1_ws/install/interface/share/interface/package.xml
+[1.816s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_generator_c.so
+[1.818s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_fastrtps_c.so
+[1.819s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_fastrtps_cpp.so
+[1.820s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_introspection_c.so
+[1.822s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_c.so
+[1.840s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_introspection_cpp.so
+[1.843s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_typesupport_cpp.so
+[1.958s] Listing '/home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface'...
+[1.958s] Listing '/home/ignacio/examen1_ws/install/interface/local/lib/python3.10/dist-packages/interface/srv'...
+[1.978s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/lib/libinterface__rosidl_generator_py.so
+[1.981s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_generator_cExport.cmake
+[1.982s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_generator_cExport-noconfig.cmake
+[1.983s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[1.985s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.985s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_generator_cppExport.cmake
+[1.988s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.988s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.988s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_introspection_cExport.cmake
+[1.988s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.995s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_cExport.cmake
+[1.995s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_cExport-noconfig.cmake
+[1.997s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_introspection_cppExport.cmake
+[1.998s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.000s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_cppExport.cmake
+[2.000s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/interface__rosidl_typesupport_cppExport-noconfig.cmake
+[2.000s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_generator_pyExport.cmake
+[2.001s] -- Up-to-date: /home/ignacio/examen1_ws/install/interface/share/interface/cmake/export_interface__rosidl_generator_pyExport-noconfig.cmake
+[2.007s] Invoked command in '/home/ignacio/examen1_ws/build/interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ignacio/examen1_ws/build/interface
